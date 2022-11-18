@@ -8,7 +8,7 @@ Welcome to my GitHub page! </h1>
 
 
 - I have no idea how my code works but it looks cool af
-- [Slide in my DM's](https://www.youtube.com/)
+- [Slide in my DM's](mailto:maj.korent@gmail.com)
 
 
 
