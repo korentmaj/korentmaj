@@ -8,7 +8,7 @@ Welcome to my GitHub page!  </h1>
 
 - 💎Super interested in AI and that stuff
 - 💻 I have no idea how my code works but it looks cool af
-- 💬Slide in my DM's
+- 💬Slide in my DM's<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korent897&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korent897&show_icons=true&theme=transparent&hide_title=true&card_width=1&include_all_commits=true&hide_rank=false&text_color=ffffff&icon_color=006eff&hide_border=true)
