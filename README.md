@@ -6,7 +6,7 @@ Welcome to my GitHub page!  </h1>
 
 - <p><img src="https://user-images.githubusercontent.com/92298737/202761854-816229b1-f7dd-4b2b-88cc-f9878dde6957.png" width="20"/> Using the yellow and blue snake language</p>
 
-- 💎Super interested in AI and that stuff
 - 💻 I have no idea how my code works but it looks cool af
-- 💬Slide in my DM's<br>
+- 💬Slide in my DM's
+-📍EU<br>
 
