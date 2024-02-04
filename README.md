@@ -76,14 +76,15 @@
   </tr>
 </table>
 
-
 <p align="center">
   𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉:
 </p>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/Korent897/count.svg?" width="150" />
 </div>
-<br><br><br>
+
+<br>
+
 <h3 align ="center" >𝒮𝑜𝒸𝒾𝒶𝓁𝓈:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/majkorent/">
