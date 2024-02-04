@@ -59,12 +59,29 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20" alt="cmake logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="20" alt="markdown logo"  />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="bash logo"  />
   <img width="6" />
 </div>
 
+<table style="width:100%;">
+  <tr>
+    <td>Column 1</td>
+    <td><div align="center">
+  <a href="https://open.spotify.com/user/9hspvq2ng766opikfib5505qd">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9hspvq2ng766opikfib5505qd&count=5" alt="Spotify recently played"  />
+  </a>
+</div></td>
+  </tr>
+</table>
+
+
+<p align="center">
+  Visitor Count:
+</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Korent897/count.svg?"  />
+</div>
+<br><br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/majkorent/">
@@ -81,4 +98,6 @@
     <img src="https://img.shields.io/badge/Website-ff69b4?style=flat-square&logo=star&logoColor=white" alt="Website"/>
   </a> -->
 
-<
+
+
+
