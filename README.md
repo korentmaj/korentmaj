@@ -63,10 +63,12 @@
   <img width="6" />
 </div>
 
-<table style="width:100%;">
+<table style="width:100%;" align="center">
   <tr>
-    <td>Column 1</td>
-    <td><div align="center">
+    <td max-width:50px;">
+      <img src="https://images.pexels.com/photos/2215380/pexels-photo-2215380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="350" />
+    </td>
+    <td style="min-width:50%;"><div align="center">
   <a href="https://open.spotify.com/user/9hspvq2ng766opikfib5505qd">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=9hspvq2ng766opikfib5505qd&count=5" alt="Spotify recently played"  />
   </a>
@@ -76,13 +78,13 @@
 
 
 <p align="center">
-  Visitor Count:
+  𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉:
 </p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Korent897/count.svg?"  />
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/Korent897/count.svg?" width="150" />
 </div>
 <br><br><br>
-
+<h3 align ="center" >𝒮𝑜𝒸𝒾𝒶𝓁𝓈:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/majkorent/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -93,6 +95,13 @@
   <a href="https://www.researchgate.net/profile/Maj-Korent">
     <img src="https://img.shields.io/badge/ResearchGate-00ccbb?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
+
+  <img width="20" />
+
+<a href="mailto:maj.korent@sers.si">
+  <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Me">
+</a>
+
   
   <!-- <a href="Just one moment please :)">
     <img src="https://img.shields.io/badge/Website-ff69b4?style=flat-square&logo=star&logoColor=white" alt="Website"/>
