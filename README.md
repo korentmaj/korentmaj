@@ -98,7 +98,7 @@
   <img width="20" />
 
 <a href="mailto:maj.korent@sers.si">
-  <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Me">
+  <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email">
 </a>
 
   
