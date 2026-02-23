@@ -73,9 +73,15 @@
   </tr>
 </table>
 
-<p align="center">𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉:</p>
+
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Korent897/count.svg?" width="150" />
+  <img src="https://i.pinimg.com/originals/53/85/53/538553198155bae2fbe54f23df3c709a.gif" width="80" alt="Swipe arrow" />
+</div>
+<div align="center">
+  <a href="https://korent.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Some%20Website-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Some Website" />
+  </a>
 </div>
 
 <br>
